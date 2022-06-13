@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/myyagis
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://yavuzyagis.com
+  * I am myyagis (https://keybase.io/myyagis) on keybase.
+  * I have a public key ASBq-I1YrpKag4-5y6cYJ04JZX_LyObmNPCdcCSXQQmiiAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206af88d58ae929a838fb9cba718274e09657fcbc8e6e634f09d7024974109a2880a",
+      "host": "keybase.io",
+      "kid": "01206af88d58ae929a838fb9cba718274e09657fcbc8e6e634f09d7024974109a2880a",
+      "uid": "1ff0f440c771ecb8157a5b12ad587019",
+      "username": "myyagis"
+    },
+    "merkle_root": {
+      "ctime": 1655116773,
+      "hash": "f414e04367b159e693207441e37fb05a3a1b4fef224377ae2de69510e7d3bb6a596efb290a4585c161b18fa26bdde6b5ab032bfe5c071ed8a42c43194c6b2026",
+      "hash_meta": "c20aa56523675613c465369a2936cbc3cb912721ba8d9e74d5ba7b78415c945a",
+      "seqno": 22664464
+    },
+    "service": {
+      "entropy": "YrvJBkyntEmqSUUYB9JNHjtG",
+      "hostname": "yavuzyagis.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1655116891,
+  "expire_in": 504576000,
+  "prev": "be9c8944dfe4a962f46ff172a287696e5a69c280b67fe919ad521d207b7dbecd",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgaviNWK6SmoOPucunGCdOCWV/y8jm5jTwnXAkl0EJoogKp3BheWxvYWTESpcCBcQgvpyJRN/kqWL0b/FyoodpblppwoC2f+kZrVIdIHt9vs3EIPRv1445ejHNUf2xxXTdQdGv+UX+1t+hYAlO2xwh9U8OAgHCo3NpZ8RAsAYYub1OEOK4BgyibiOMBPLUoZha3YrKn0bMI8WVoLoBj3c/aw/7Vobg+2ydZnpO1Q67FRRVv5qPsBIHoPDcB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKH5nr5osC3k2s/7N3mFCWLm8hlFlxwrqJ7mrIbjqYlHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/myyagis
+
+==================================================================
