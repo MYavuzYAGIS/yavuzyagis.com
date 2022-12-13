@@ -4,7 +4,7 @@ https://keybase.io/myyagis
 
 I hereby claim:
 
-  * I am an admin of https://yavuzyagis.com
+  * I am an admin of https://yavuzyagis.dev
   * I am myyagis (https://keybase.io/myyagis) on keybase.
   * I have a public key ASBq-I1YrpKag4-5y6cYJ04JZX_LyObmNPCdcCSXQQmiiAo
 
@@ -27,7 +27,7 @@ To do so, I am signing this object:
     },
     "service": {
       "entropy": "YrvJBkyntEmqSUUYB9JNHjtG",
-      "hostname": "yavuzyagis.com",
+      "hostname": "yavuzyagis.dev",
       "protocol": "https:"
     },
     "type": "web_service_binding",
